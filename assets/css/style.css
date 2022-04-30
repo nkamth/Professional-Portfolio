@@ -1,0 +1,91 @@
+*{
+    margin: 5px;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+header{
+    height:500vh;
+    width:100%;
+    padding:0;
+    background-color:rgb(228, 238, 246);
+    position: relative;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    background-color: black;
+    height: 80px;
+
+}
+h1{
+    width: 350px;
+    height:60px;
+    padding:10px ;
+    text-align:right;
+    font-size:35px;
+    color:black;
+    display: inline-block;
+    background-color: aquamarine;
+}
+.nav-links{
+    padding:28px 0;
+}
+.nav-links li{
+    display: inline-block;
+    margin:0 15px;
+}
+.nav-links li a{
+    font-size:larger;
+    text-decoration:underline;
+    color:aquamarine;
+    padding:5px 0;
+
+}
+.subtitle{
+    position:relative;
+    display: flex;
+    align-items: right;
+    justify-content:right;
+    background-color:blue;
+    background-image: url(/assets/images/stripes-blue-diagonal-background.jpeg);
+    height: 150px;
+}
+h2{
+    position: absolute;
+    bottom:10px;
+    right:30px;
+    width: 300px;
+    height:50px;
+    text-align:center;
+    padding: 3px;
+    font-size:30px;
+    color:black;
+    display: inline-block;
+    background-color: aquamarine;
+}
+
+.about-me{
+    display: flex;
+    height:auto;
+}
+.nav-title{
+    float:left;
+    width:20%;
+    font-size:xx-large;
+    text-align:right;
+    border-right: 4px solid;
+    border-color:rgba(17, 24, 34, 0.819);
+    color:#326187;
+}
+.nav-content{
+    float:right;
+    width:75%;
+}
+
+.nav-content p{
+    text-align: left;
+    font-size:large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
