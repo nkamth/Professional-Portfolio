@@ -2,8 +2,10 @@
 
 # Description
 
-I have Designed my portfolio with the developers name , a photo and links to section about me, work and how to contact me. I have added the navigation and linked corresponding section.
-I have made the first application image look larger. I have done css styling to give a responsive layout that adapts to the viewport.
+- I have Designed my portfolio with the developers name , a photo and links to section about me, work and how to contact me. I have added the navigation and linked corresponding section.
+- I have made the first application image look larger. I have done css styling to give a responsive layout that adapts to the viewport.
+
+- I have my first main project linked to the deployed url
 
 # GitHub Repo URL:
 
